@@ -7,4 +7,4 @@
 > -🌱 I’m currently learning Python, PHP , JavaScript , C++ and GO
 
 
-> -📫 Contact me[Mail me](https://click.kavishka.me/mail)
+> -📫 [Mail me](https://click.kavishka.me/mail)
