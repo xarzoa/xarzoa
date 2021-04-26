@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dribbble.com/d4rk777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="d4rk777" height="30" width="40" /></a>
+<a href="https://dribbble.com/d4rk777" target="blank"><img align="center" color="pink" src="https://cdn.kavishka.me/Img/dribbble-logo.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
