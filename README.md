@@ -20,4 +20,3 @@ Fun fact **I still watch cartoons 😁😂**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-136&show_icons=true&locale=en" alt="k-136" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-136&" alt="k-136" /></p>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31koeqycgwu3f6ssktomalyd3zze&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
