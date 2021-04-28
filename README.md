@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm K-136</h1>
-<h3 >Learner🙂</h3>
+<h3 >Learning🙂</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-136&label=Profile%20views&color=0e75b6&style=flat" alt="k-136" /> </p>
 
