@@ -21,8 +21,6 @@ Fun fact **I still watch cartoons 😁😂**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-136&" alt="k-136" /></p>
 
-#Spotify🤘🙂
-
-<p><iframe src="https://spotify-recently-played-readme.vercel.app/api?user=31koeqycgwu3f6ssktomalyd3zze&width=500" frameborder="0"></iframe></p>
- 
-<p><iframe src="https://spotify-github-profile.vercel.app/api/view?uid=31koeqycgwu3f6ssktomalyd3zze&cover_image=true&theme=natemoo-re" frameborder="0"></iframe></p>
+<h3>Spotify</h3>
+<p><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31koeqycgwu3f6ssktomalyd3zze&cover_image=true&theme=natemoo-re" alt="k-136" /></p>
+<p><img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31koeqycgwu3f6ssktomalyd3zze&width=320" alt="k-136" /></p>
