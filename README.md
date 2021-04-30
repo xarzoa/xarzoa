@@ -9,7 +9,8 @@ Funfact **I'm hardcore food lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dribbble.com/d4rk777" target="blank"><img align="center" color="pink" src="https://cdn.kavishka.me/Img/dribbble-logo.svg" height="40" /></a>
+<a href="https://click.kavishka.me/dribble" target="blank"><img align="center" color="pink" src="https://cdn.kavishka.me/Img/dribbble-logo.svg" height="40" /></a>
+<a href="https://click.kavishka.me/patreon" target="blank"><img align="center" color="pink" src="https://cdn.kavishka.me/Img/patreon.png" height="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
