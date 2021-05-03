@@ -1,6 +1,9 @@
 <h1 align="center">Hola 👋, I'm K-136</h1>
 <h3 >Learning🙂</h3>
 
+<p><img align="center" src="https://img.shields.io/badge/Love-False-red?style=for-the-badge" alt="love-status" /></p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-136&label=Profile%20views&color=0e75b6&style=flat" alt="k-136" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-136" alt="k-136" /></a> </p>
