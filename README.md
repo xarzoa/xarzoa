@@ -1,5 +1,5 @@
 <h1 >Hola 👋! {GITHUB_USER}</h1>
-<h4 >Learning :)</h4>
+<h4 >Noob</h4>
 
 <p><img align="center" src="https://img.shields.io/badge/Love-False-red?style=for-the-badge" alt="love-status" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-136&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="K-136" /> </p>
