@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-136&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="K-136" /> </p>
 
-<a href="https://www.buymeacoffee.com/Mizuhara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40px" ></a>
+<a href="//www.buymeacoffee.com/Mizuhara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40px" ></a>
 
 [![Telegram](https://img.shields.io/badge/Owner-Mizuhara-blue?style=social&logo=Telegram)](//t.me/MizuharaChizru)
 
