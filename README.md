@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-136&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="K-136" /> </p>
 
-[![PayPal Donate](https://img.shields.io/badge/WalkersCloud-blue?style=social&logo=Paypal)](https://www.paypal.com/donate?hosted_button_id=EYS8RHC35LJ3J)
+<a href="https://www.buymeacoffee.com/Mizuhara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40px" ></a>
 
-[![Telegram](https://img.shields.io/badge/Owner-Mizuhara-blue?style=social&logo=Telegram)](https://t.me/MizuharaChizru)
+[![Telegram](https://img.shields.io/badge/Owner-Mizuhara-blue?style=social&logo=Telegram)](//t.me/MizuharaChizru)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-136&show_icons=true&locale=en" alt="k-136" /></p>
