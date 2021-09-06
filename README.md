@@ -1,9 +1,1 @@
-<h1 >Hola 👋! ${GITHUB_USER}</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-136&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="K-136" /> </p>
-
-[![Telegram](https://img.shields.io/badge/Owner-Mizuhara-blue?style=social&logo=Telegram)](//t.me/MizuharaChizru)
-
-<a href="//www.buymeacoffee.com/Mizuhara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40px" ></a>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-136&show_icons=true&locale=en" alt="k-136" /></p>
