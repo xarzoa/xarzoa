@@ -3,7 +3,7 @@
 
 * * *
 
-Give me your **ETH**
+Gimme some **ether**
 
 ```
 0xAb5078eF40aEf179356c67C1866981706fece2fb
