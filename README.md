@@ -3,8 +3,8 @@
 
 * * *
 
-Gimme some **ether**
+Gimme some **sol**
 
 ```
-0xAb5078eF40aEf179356c67C1866981706fece2fb
+95ffMu5Wd99oFyYRrmA8T41gxzfeWcoP77FYZWf3HZN3
 ```
