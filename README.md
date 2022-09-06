@@ -3,7 +3,7 @@
 
 * * *
 
-Gimme some **sol**
+Gimme some **SOL**
 
 ```
 3D79MNPMGHE7is32Q8zXkNJCWBvnqXsQL2Uowmqty7yE
