@@ -16,7 +16,7 @@
 
 ## music
 
-- **[Spotify](https://app.tunemymusic.com/share/wwsWE6Rcyv)**
+- **[favorite playlist](https://app.tunemymusic.com/share/wwsWE6Rcyv)**
 
 ## science
 
