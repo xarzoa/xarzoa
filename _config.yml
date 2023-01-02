@@ -1,16 +1,9 @@
-title: xarzoa
-email: x@xat.icu
-description: Just a guy 
-url: "xat.icu"
-github_username: xarzoa
-plugins: 
-   - jekyll-remote-theme 
-   - jemoji 
-remote_theme: tareqdandachi/jekyll-shell-theme 
-sass: 
-   style: compressed 
-highlighter: rouge
-header_pages: 
-   - readme.md 
-   - works.md 
-font-size: small
+remote_theme: b2a3e8/jekyll-theme-console
+title: xarzoa
+header_pages:
+  - readme.md
+  - works.md
+
+style: dark
+listen_for_clients_preferred_style: true
+footer: 'I got <a href="https://xarzoa.t.me">telegram</a>'
