@@ -1,26 +1,16 @@
 title: xarzoa
-
 email: x@xat.icu
-
 description: Just a guy 
-   
 url: "xat.icu"
-
 github_username: xarzoa
-   
 plugins: 
    - jekyll-remote-theme 
    - jemoji 
-  
 remote_theme: tareqdandachi/jekyll-shell-theme 
-  
 sass: 
    style: compressed 
-  
 highlighter: rouge
-  
 header_pages: 
    - readme.md 
    - works.md 
-   
 font-size: small
