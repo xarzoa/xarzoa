@@ -12,7 +12,7 @@
 
 - **[telegram](https://xarzoa.t.me)**
 
-```oh just got telegram account as social media. kinda hate fb/insta things```
+```oh just got telegram account as social media. kinda hate posting everything thing :/```
 
 ## music
 
