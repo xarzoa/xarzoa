@@ -1,3 +1,3 @@
-# Works
+# works
 
-Currently *not available*. Add to bookmarks and check again later ```:)```
+currently *not available*. add to bookmarks and check again later ```:)```
