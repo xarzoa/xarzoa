@@ -12,7 +12,8 @@
 - **[github](https://github.com/xarzoa)**
 - **[reddit](https://reddit.com/u/xarzoa)**
 
-```oh just got telegram account as social media. kinda hate posting everything thing :/```
+
+```oh just active on telegram. kinda hate posting things :/```
 
 ## music
 
