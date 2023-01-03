@@ -9,6 +9,8 @@
 ## socials
 
 - **[telegram](https://xarzoa.t.me)**
+- **[github](https://github.com/xarzoa)**
+- **[reddit](https://reddit.com/u/xarzoa)**
 
 ```oh just got telegram account as social media. kinda hate posting everything thing :/```
 
