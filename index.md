@@ -3,7 +3,6 @@
 - a bad programmer who loves minecraft and music so much
 - love to design websites/crypto (specially TON)/bots and automation that doesn't work at all 
 - npc (wears same color tees everyday.)
-- loves a girl (following nearly 6-7months, btw she still don't know who the fuck im, never talked.)
 - got bad social skills (nothing at all)
 
 ## socials
